@@ -24,8 +24,8 @@ var server = http.createServer(function(request, response) {
 //     res.end('Success!');
 // });
 
-server.listen(3000, function() {
-    console.log('Server listening on port 3000.');
+server.listen(8080, function() {
+    console.log('Server listening on port 8080.');
     chatServer.listen(server);
 });
 
