@@ -1,2 +1,2 @@
-# ChatRoom
+# chat-room
 Node chat room.
